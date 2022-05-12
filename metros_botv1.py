@@ -1,4 +1,3 @@
-# this is becuz we do not want anyone that looks into the script to know the api key
 import os
 import telebot
 import numpy as np
